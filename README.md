@@ -1,1 +1,1 @@
-# LandscapeIntelRecognitio-DeepLearning
+# LandscapeIntelRecognition-DeepLearning
